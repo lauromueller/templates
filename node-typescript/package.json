@@ -1,0 +1,11 @@
+{
+  "name": "node-typescript",
+  "version": "1.0.0",
+  "description": "Template for new node and typescript projects",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lauro F. Müller",
+  "license": "ISC"
+}
